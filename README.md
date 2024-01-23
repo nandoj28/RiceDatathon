@@ -8,3 +8,6 @@
 # finding how they relate. Helped us find redundant values and again reduce complexity to avoid overfitting.
 # Overall a great project and learned a lot on how to deal with datasets with massive amounts of missing data!
 # Check out our PDF slides for some insights on what we did and how we did!
+
+# Also checkout our submission
+https://devpost.com/software/team-g-y-a-t-t?ref_content=my-projects-tab&ref_feature=my_projects
