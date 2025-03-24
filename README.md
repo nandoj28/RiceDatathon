@@ -1,4 +1,3 @@
-# RiceDatathon, lets do some brain storming first (initial commit)
 # Submission for the 2024 Ricedathon Chevron Track
 
 # Goal was to create a model that predicts Peak Oil Rate with the lowest RMSE (Root Mean Squared Error)
